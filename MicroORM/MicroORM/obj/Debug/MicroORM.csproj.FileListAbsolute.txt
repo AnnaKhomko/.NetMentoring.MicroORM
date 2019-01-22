@@ -1,0 +1,11 @@
+D:\Mentoring\New folder\MicroORM\MicroORM\bin\Debug\MicroORM.exe.config
+D:\Mentoring\New folder\MicroORM\MicroORM\bin\Debug\MicroORM.exe
+D:\Mentoring\New folder\MicroORM\MicroORM\bin\Debug\MicroORM.pdb
+D:\Mentoring\New folder\MicroORM\MicroORM\bin\Debug\linq2db.dll
+D:\Mentoring\New folder\MicroORM\MicroORM\bin\Debug\linq2db.pdb
+D:\Mentoring\New folder\MicroORM\MicroORM\bin\Debug\linq2db.xml
+D:\Mentoring\New folder\MicroORM\MicroORM\obj\Debug\MicroORM.csproj.CoreCompileInputs.cache
+D:\Mentoring\New folder\MicroORM\MicroORM\obj\Debug\MicroORM.csproj.CopyComplete
+D:\Mentoring\New folder\MicroORM\MicroORM\obj\Debug\MicroORM.exe
+D:\Mentoring\New folder\MicroORM\MicroORM\obj\Debug\MicroORM.pdb
+D:\Mentoring\New folder\MicroORM\MicroORM\obj\Debug\MicroORM.csprojAssemblyReference.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroORM", "MicroORM\MicroORM.csproj", "{3ADEF9AE-950F-404A-8D90-D10258BF3846}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "UnitTestProject1\Tests.csproj", "{6F0B9E0B-DBF2-43F9-9093-0BA8835A6A63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ADEF9AE-950F-404A-8D90-D10258BF3846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ADEF9AE-950F-404A-8D90-D10258BF3846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ADEF9AE-950F-404A-8D90-D10258BF3846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ADEF9AE-950F-404A-8D90-D10258BF3846}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F0B9E0B-DBF2-43F9-9093-0BA8835A6A63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F0B9E0B-DBF2-43F9-9093-0BA8835A6A63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F0B9E0B-DBF2-43F9-9093-0BA8835A6A63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F0B9E0B-DBF2-43F9-9093-0BA8835A6A63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99946F35-9D82-4068-B7D3-64BEC35370CC}
+	EndGlobalSection
+EndGlobal
